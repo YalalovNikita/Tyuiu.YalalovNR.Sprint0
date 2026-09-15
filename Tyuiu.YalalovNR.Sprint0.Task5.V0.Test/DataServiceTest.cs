@@ -1,5 +1,5 @@
-using Tyuiu.YalalovNR.Sprint0.Task4.V0.Lib;
-namespace Tyuiu.YalalovNR.Sprint0.Task4.V0.Test
+using Tyuiu.YalalovNR.Sprint0.Task5.V0.Lib;
+namespace Tyuiu.YalalovNR.Sprint0.Task5.V0.Test
 {
     public class DataServiceTest
     {
